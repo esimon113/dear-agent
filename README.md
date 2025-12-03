@@ -1,0 +1,6 @@
+# Dear Agent
+
+Just me jumping on the AI agent hype train...
+
+Project just for fun and learning more about: google gemini API, agents, nvim, uv...
+
